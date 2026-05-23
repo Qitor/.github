@@ -72,6 +72,18 @@ An AIGC forensics agent for detecting AI-generated content. Multi-modal analysis
 **Status:** Research Tooling &nbsp;·&nbsp; AIGC forensics · Evidence analysis · Multi-modal detection
 
 </td>
+<td width="50%">
+
+### [snowl-evals](https://github.com/Qitor/snowl-evals)
+
+[![Stars](https://img.shields.io/github/stars/Qitor/snowl-evals?style=social)](https://github.com/Qitor/snowl-evals)
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://github.com/Qitor/snowl-evals)
+
+Official benchmark adapter collection for Snowl. 20+ safety and capability benchmarks as pluggable adapters.
+
+**Status:** Evaluation &nbsp;·&nbsp; Benchmark adapters · Safety benchmarks · Registry integration
+
+</td>
 </tr>
 </table>
 
