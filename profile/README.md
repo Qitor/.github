@@ -73,46 +73,6 @@ An AIGC forensics agent for detecting AI-generated content. Multi-modal analysis
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### [OwlHermes](https://github.com/Qitor/OwlHermes)
-
-[![Stars](https://img.shields.io/github/stars/Qitor/OwlHermes?style=social)](https://github.com/Qitor/OwlHermes)
-
-A frontier AI risk intelligence observatory built on Hermes-Agent. Monitors labs, policy, and research for risk-relevant signals.
-
-**Status:** Experimental &nbsp;·&nbsp; Risk intelligence · Signal monitoring · Daily digests
-
-</td>
-<td width="50%">
-
-### [owl](https://github.com/Qitor/owl)
-
-[![Stars](https://img.shields.io/github/stars/Qitor/owl?style=social)](https://github.com/Qitor/owl)
-
-A frontier AI risk signal platform. Ingests public papers and blogs, extracts evidence-backed findings, and routes them through review and publishing.
-
-**Status:** Research Tooling &nbsp;·&nbsp; Signal extraction · Evidence routing · Review workflow
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [stargazer](https://github.com/Qitor/stargazer)
-
-[![Stars](https://img.shields.io/github/stars/Qitor/stargazer?style=social)](https://github.com/Qitor/stargazer)
-
-An early-warning intelligence platform that continuously monitors the global AI landscape and delivers actionable risk intelligence.
-
-**Status:** Experimental &nbsp;·&nbsp; Risk dashboard · Daily briefs · Landscape monitoring
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
 </table>
 
 ## Principles
